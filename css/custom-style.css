@@ -1,8 +1,38 @@
-.mini-logo-romee{
-    width: 250px;
-    height: 50px;
-    display: inline-block;
-    background-image: url('../assets/img/romee-logo.png');
-    background-size: cover;
-    background-position: center;
+.mini-logo-romee {
+    width: 100px;
+}
+
+.mini-logo-romee > img{
+    width: 100%;
+}
+
+
+.img-presentation {
+    width: 350px;
+    margin: 0 auto;
+}
+
+.img-presentation > img {
+    width: 100%;
+}
+
+
+.list-info-romee{
+    list-style: none;
+    padding-left: 0;
+    color: #fff;
+    margin-bottom: 2.5rem;
+}
+
+.list-info-romee li::before {
+  content: ">";
+  color: #fff;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+
+.img-rouded-romee {
+    border-radius: 10px;
+    border: 3px solid #5f9fc1;
 }
