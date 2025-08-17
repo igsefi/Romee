@@ -1,49 +1,46 @@
 <section class="page-section bg-primary-grey-romee" id="sobre_nosotros">
     <div class="container px-4 px-lg-5">
-        <div class="row gx-4 gx-lg-5 justify-content-center">
-            <div class="col-lg-8 text-center">
-                <h2 class="text-white mt-0">Sobre nosotros</h2>
-                <hr class="divider divider" />
+        <h2 class="text-white text-center mt-0">Sobre nosotros</h2>
+        <hr class="divider" />
+        <br>
 
-                <div class="row">
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <img src="assets/img/bg-masthead-7.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
-                    </div>
-                    
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <img src="assets/img/bg-masthead-10.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
-                    </div>
-
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <img src="assets/img/bg-masthead-11.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
-                    </div>
-
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                        <img src="assets/img/bg-masthead-6.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
-                    </div>
-
-                    <div class="col-12">
-                        <p class="text-white fs-5 mb-5 fst-italic">
-                            <b>Romee Solución Industrial</b> es una firma especializada en soldaduras sanitarias, montajes industriales y la fabricación de estructuras en acero inoxidable.
-                        </p>
-                    </div>
-                    
-                    <div class="col-12">
-                        <p class="text-white fs-5 mb-5 fst-italic">
-                            Con una amplia trayectoria en la industria alimenticia, farmacéutica, 
-                            cervecera y de biotecnología, brindamos soluciones adaptadas a normas exigentes 
-                            y necesidades específicas.
-                        </p>
-                    </div>
-
-
-                </div>
-
+        <div class="row">
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <img src="assets/img/bg-masthead-7.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
             </div>
+            
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <img src="assets/img/bg-masthead-10.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+            </div>
+
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <img src="assets/img/bg-masthead-11.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+            </div>
+
+            <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+                <img src="assets/img/bg-masthead-6.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+            </div>
+
+            <div class="col-12 mt-4">
+                <p class="text-white text-center fs-5 mb-5 fst-italic">
+                    <b>Romee Solución Industrial</b> es una firma especializada en soldaduras sanitarias, montajes industriales y la fabricación de estructuras en acero inoxidable.
+                </p>
+            </div>
+            
+            <div class="col-12">
+                <p class="text-white text-center fs-5 mb-5 fst-italic">
+                    Con una amplia trayectoria en la industria alimenticia, farmacéutica, 
+                    cervecera y de biotecnología, brindamos soluciones adaptadas a normas exigentes 
+                    y necesidades específicas.
+                </p>
+            </div>
+
+
         </div>
+
+
     </div>
 </section>
-
 
 
 
