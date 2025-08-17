@@ -2,6 +2,7 @@
     <div class="container px-4 px-lg-5">
         <h2 class="text-white text-center mt-0">Sobre nosotros</h2>
         <hr class="divider" />
+
         <br>
 
         <div class="row">
@@ -49,7 +50,8 @@
     <div class="container px-4 px-lg-5">
         <h2 class="text-center mt-0">Nuestros Valores</h2>
         <hr class="divider" />
-        <div class="row gx-4 gx-lg-5">
+
+        <div class="row mb-5">
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <div class="mb-2"><i class="bi-gem fs-1 text-primary"></i></div>
