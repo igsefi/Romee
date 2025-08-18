@@ -10,11 +10,11 @@
                 <hr class="divider" />
             </div>
             <div class="col-lg-8 align-self-baseline">
-                <h2 class="text-white mb-5">
+                <h2 class="text-white mb-5 fst-italic">
                     Soluciones industriales en acero inoxidable 
                     para los sectores más exigentes.
                 </h2>
-                <ul class="list-info-romee fs-5">
+                <ul class="list-info-romee fs-5 fst-italic">
                     <li>Especialización en montaje industrial y soldaduras sanitarias.</li>
                     <li>Enfoque en industrias alimenticia, farmacéutica y biotecnología.</li>
                     <li> Principales valores: Colaboración, Excelencia, Integridad, Innovación</li>
