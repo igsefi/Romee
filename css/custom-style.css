@@ -56,3 +56,18 @@
     justify-content: center;
     flex-shrink: 0;
 }
+
+
+.style-romee {
+  border: 1px solid #b5b5b5;
+  color: #b5b5b5;
+  background-color: #333333 !important;
+}
+
+.style-romee:focus {
+    color: #b5b5b5 !important;
+}
+
+.label-gray{
+    color: #b5b5b5 !important;
+}

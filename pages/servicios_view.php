@@ -5,7 +5,7 @@
             </div>
         </div> -->
 
-        <h2 class="text-white text-center mt-0">Servicios</h2>
+        <h2 class="text-white text-center mt-0">Servicios.</h2>
         <hr class="divider divider" />
 
         <div class="row">
@@ -58,7 +58,7 @@
 
 
 
-<section class="page-section" id="servicios_view">
+<section class="page-section" id="metodologia_view" style="padding-bottom: 0px;">
     <div class="container px-4 px-lg-5">
         <h2 class="text-center mt-0">Metodología de trabajo.</h2>
         <hr class="divider divider" />
