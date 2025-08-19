@@ -12,6 +12,7 @@
         <link href="css/styles.css" rel="stylesheet" />
         <link href="css/custom-style.css" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
     </head>
     <body id="page-top">
         <!-- Navigation-->
@@ -103,6 +104,25 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-4">
+
+                    <ul class="list-unstyled">
+                        <li class="mb-2">
+                            <i class="bi bi-geo-alt-fill me-2 text-primary" style="color: #5f9fc1 !important;"></i>
+                            Quilmes Oeste, Buenos Aires
+                        </li>
+                        <li class="mb-2">
+                            <i class="bi bi-telephone-fill me-2 text-primary" style="color: #5f9fc1 !important;"></i>
+                            11 6308 9214
+                        </li>
+                        <li class="mb-2">
+                            <i class="bi bi-envelope-fill me-2 text-primary" style="color: #5f9fc1 !important;"></i>
+                            rome.solucionindustrial@outlook.com
+                        </li>
+                        <li>
+                            <i class="bi bi-instagram me-2 text-primary" style="color: #5f9fc1 !important;"></i>
+                            @Romeesolucionindustrial
+                        </li>
+                    </ul>
 
                 </div>
                 <div class="col-12 col-md-4">
