@@ -16,56 +16,83 @@
             <div class="container-fluid p-0">
                 <div class="row g-0">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/1.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/1.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/cañerías-acero-inoxidable.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/cañerías-acero-inoxidable.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Proyecto integral</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/2.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/2.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/cañerías-acero-inoxidable-top.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/cañerías-acero-inoxidable-top.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Proyecto integral</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/3.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/3.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/tanque-flash.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/tanque-flash.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Proyecto integral</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/4.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/4.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/tanque-flash-acero.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/tanque-flash-acero.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Proyecto integral</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/5.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/5.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/tanque-flash-y-cañerias-acero.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/tanque-flash-y-cañerias-acero.jpg" alt="..." />
                             <div class="portfolio-box-caption">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Proyecto integral</div>
                             </div>
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/6.jpg" title="Project Name">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/6.jpg" alt="..." />
-                            <div class="portfolio-box-caption p-3">
-                                <div class="project-category text-white-50">Category</div>
-                                <div class="project-name">Project Name</div>
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/sala-compresores/compresor-secador-y-tanque.jpg" title="Sala de compresores ejecutada por Romee Solución Industrial: instalación de compresor, secador y tanque pulmón de aire, fabricación de cuadros de válvulas y tendido de cañerías de aire comprimido con sistemas de filtrado, garantizando eficiencia y confiabilidad.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/sala-compresores/compresor-secador-y-tanque.jpg" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Sala de compresores</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/sala-compresores/sistema-de-filtrado.jpg" title="Sala de compresores ejecutada por Romee Solución Industrial: instalación de compresor, secador y tanque pulmón de aire, fabricación de cuadros de válvulas y tendido de cañerías de aire comprimido con sistemas de filtrado, garantizando eficiencia y confiabilidad.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/sala-compresores/sistema-de-filtrado.jpg" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Sala de compresores</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/sala-compresores/tanque-pulmon-de-aire.jpg" title="Sala de compresores ejecutada por Romee Solución Industrial: instalación de compresor, secador y tanque pulmón de aire, fabricación de cuadros de válvulas y tendido de cañerías de aire comprimido con sistemas de filtrado, garantizando eficiencia y confiabilidad.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/sala-compresores/tanque-pulmon-de-aire.jpg" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Sala de compresores</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/sala-compresores/tendido-cañerias.jpg" title="Sala de compresores ejecutada por Romee Solución Industrial: instalación de compresor, secador y tanque pulmón de aire, fabricación de cuadros de válvulas y tendido de cañerías de aire comprimido con sistemas de filtrado, garantizando eficiencia y confiabilidad.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/sala-compresores/tendido-cañerias.jpg" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Sala de compresores</div>
                             </div>
                         </a>
                     </div>
