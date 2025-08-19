@@ -104,8 +104,14 @@
         </div>
 
 
+    </div>
+</section>
 
 
+
+
+<section class="page-section" id="estrategias_view">
+    <div class="container px-4 px-lg-5">
 
         <!-- Estrategias -->
         <h2 class="text-center"> Estrategias.</h2>
@@ -211,7 +217,7 @@
 
         </div>
 
-
-
     </div>
 </section>
+
+

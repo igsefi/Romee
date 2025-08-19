@@ -74,11 +74,19 @@
         </div>
 
 
+    </div>
+</section>
+
+
+
+
+<section class="page-section" id="clientes_view">
+    <div class="container px-4 px-lg-5">
 
         <h2 class="text-center mt-0">Clientes.</h2>
         <hr class="divider divider" />
 
-        <div class="row" id="clientes_view">
+        <div class="row">
             <div class="col-12 col-sm-4">
                 <img src="assets/img/cli_bionbax.png" alt="cli_bionbax" class="img-fluid mb-3" />
             </div>
