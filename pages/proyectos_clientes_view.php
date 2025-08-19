@@ -88,33 +88,33 @@
 
         <div class="row">
             <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_bionbax.png" alt="cli_bionbax" class="img-fluid mb-3" />
+                <img src="assets/img/cli_bionbax.png" alt="cli_bionbax" class="icono-cliente img-fluid mb-3" />
             </div>
             <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_sinax.png" alt="cli_sinax" class="img-fluid mb-3" />
+                <img src="assets/img/cli_sinax.png" alt="cli_sinax" class="icono-cliente img-fluid mb-3" />
             </div>
             <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_richet.png" alt="cli_richet" class="img-fluid mb-3" />
-            </div>
-
-            <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_afg.png" alt="cli_afg" class="img-fluid mb-3" />
-            </div>
-            <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_biomen.png" alt="cli_biomen" class="img-fluid mb-3" />
-            </div>
-            <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_nocera.png" alt="cli_nocera" class="img-fluid mb-3" />
+                <img src="assets/img/cli_richet.png" alt="cli_richet" class="icono-cliente img-fluid mb-3" />
             </div>
 
             <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_agroinvest.png" alt="cli_agroinvest" class="img-fluid mb-3" />
+                <img src="assets/img/cli_afg.png" alt="cli_afg" class="icono-cliente img-fluid mb-3" />
             </div>
             <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_southglass.png" alt="cli_southglass" class="img-fluid mb-3" />
+                <img src="assets/img/cli_biomen.png" alt="cli_biomen" class="icono-cliente img-fluid mb-3" />
             </div>
             <div class="col-12 col-sm-4">
-                <img src="assets/img/cli_quilmes.png" alt="cli_quilmes" class="img-fluid mb-3" />
+                <img src="assets/img/cli_nocera.png" alt="cli_nocera" class="icono-cliente img-fluid mb-3" />
+            </div>
+
+            <div class="col-12 col-sm-4">
+                <img src="assets/img/cli_agroinvest.png" alt="cli_agroinvest" class="icono-cliente img-fluid mb-3" />
+            </div>
+            <div class="col-12 col-sm-4">
+                <img src="assets/img/cli_southglass.png" alt="cli_southglass" class="icono-cliente img-fluid mb-3" />
+            </div>
+            <div class="col-12 col-sm-4">
+                <img src="assets/img/cli_quilmes.png" alt="cli_quilmes" class="icono-cliente img-fluid mb-3" />
             </div>
         </div>
 

@@ -90,9 +90,32 @@
             </div>
         </section>
 
-        <footer class="bg-light py-5">
-            <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; <?php echo date('Y'); ?> - Romee | Solución Industrial</div></div>
+        <footer class="bg-light">
+            <!-- <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; <?php echo date('Y'); ?> - Romee | Solución Industrial</div></div> -->
+        
+            <div class="row">
+                <div class="col-12 col-md-4">
+                    <div class="banner-left">
+                        <img src="assets/img/romee-logo.png" alt="Logo de presentación" class="img-logo-footer">
+                        <p class="text-white text-center fst-italic fs-2">
+                            Comprometidos <br> con cada proyecto.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-12 col-md-4">
+
+                </div>
+                <div class="col-12 col-md-4">
+
+                </div>
+            </div>
+        
         </footer>
+
+
+
+        
+
         <script src="js/bootstrap.bundle.min.js"></script>
         <script src="js/simpleLightbox.min.js"></script>
         <script src="js/scripts.js"></script>
