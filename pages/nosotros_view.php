@@ -55,32 +55,32 @@
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <div class="mb-2"><i class="bi-gem fs-1 text-primary"></i></div>
+                    <img src="assets/img/iconos-valores/colaboracion.png" alt="" class="img-fluid mb-3" style="width: 6rem;">
                     <h3 class="h4 mb-2">Colaboración</h3>
-                    <img src="assets/img/iconos-valores/colaboracion.png" alt="" class="img-fluid mb-3" style="max-height: 60px;">
                     <p class="text-muted mb-0">Fomentamos el trabajo en equipo con nuestros clientes, proveedores y colaboradores, construyendo soluciones conjuntas que optimizan los resultados y fortalecen los vínculos a largo plazo.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <div class="mb-2"><i class="bi-laptop fs-1 text-primary"></i></div>
+                    <img src="assets/img/iconos-valores/excelencia.png" alt="" class="img-fluid mb-3" style="width: 6rem;">
                     <h3 class="h4 mb-2">Excelencia</h3>
-                    <img src="assets/img/iconos-valores/excelencia.png" alt="" class="img-fluid mb-3" style="max-height: 60px;">
                     <p class="text-muted mb-0">Nos comprometemos con la calidad en cada detalle. Ejecutamos nuestros proyectos con precisión técnica, cumpliendo los más altos estándares del rubro industrial.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <div class="mb-2"><i class="bi-globe fs-1 text-primary"></i></div>
+                    <img src="assets/img/iconos-valores/integridad.png" alt="" class="img-fluid mb-3" style="width: 6rem;">
                     <h3 class="h4 mb-2">Integridad</h3>
-                    <img src="assets/img/iconos-valores/integridad.png" alt="" class="img-fluid mb-3" style="max-height: 60px;">
                     <p class="text-muted mb-0">Actuamos con responsabilidad, transparencia y ética profesional en todos nuestros procesos. Cumplimos lo que prometemos y generamos confianza a través de nuestras acciones.</p>
                 </div>
             </div>
             <div class="col-lg-3 col-md-6 text-center">
                 <div class="mt-5">
                     <div class="mb-2"><i class="bi-heart fs-1 text-primary"></i></div>
+                    <img src="assets/img/iconos-valores/innovacion.png" alt="" class="img-fluid mb-3" style="width: 6rem;">
                     <h3 class="h4 mb-2">Innovación</h3>
-                    <img src="assets/img/iconos-valores/innovacion.png" alt="" class="img-fluid mb-3" style="max-height: 60px;">
                     <p class="text-muted mb-0">Buscamos constantemente mejorar y adaptarnos a las nuevas tecnologías y desafíos del sector, ofreciendo soluciones modernas, seguras y eficientes.</p>
                 </div>
             </div>

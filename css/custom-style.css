@@ -1,3 +1,23 @@
+body {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+button,
+input,
+textarea {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+
 .mini-logo-romee {
     width: 100px;
 }
@@ -59,15 +79,15 @@
 
 
 .style-romee {
-  border: 1px solid #b5b5b5;
-  color: #b5b5b5;
-  background-color: #333333 !important;
+    border: 1px solid #b5b5b5;
+    color: #b5b5b5;
+    background-color: #333333 !important;
 }
 
 .style-romee:focus {
     color: #b5b5b5 !important;
 }
 
-.label-gray{
+.label-gray {
     color: #b5b5b5 !important;
 }

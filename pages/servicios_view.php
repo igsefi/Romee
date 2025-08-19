@@ -20,25 +20,25 @@
 
 
         <div class="row justify-content-center">
-            <div class="col-12 col-md-4 col-lg-2 mb-4">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
                 <img src="assets/img/iconos-servicios/montaje.png" alt="Montaje" class="img-fluid mb-3" />
-                <p class="mt-2 mb-0 text-white"> Montaje de cañerías en acero inoxidable.</p>
+                <p class="mt-2 mb-0 text-white fs-5">Montaje de cañerías en acero inoxidable.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
                 <img src="assets/img/iconos-servicios/soldadura.png" alt="Montaje" class="img-fluid mb-3" />
-                <p class="mt-2 mb-0 text-white">  Soldaduras sanitarias certificadas.</p>
+                <p class="mt-2 mb-0 text-white fs-5">Soldaduras sanitarias certificadas.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
                 <img src="assets/img/iconos-servicios/construccion.png" alt="Montaje" class="img-fluid mb-3" />
-                <p class="mt-2 mb-0 text-white">  Construcción de  estructuras y soportes.</p>
+                <p class="mt-2 mb-0 text-white fs-5">Construcción de  estructuras y soportes.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
                 <img src="assets/img/iconos-servicios/instalaciones.png" alt="Montaje" class="img-fluid mb-3" />
-                <p class="mt-2 mb-0 text-white">  Instalaciones para  líneas de procesos.</p>
+                <p class="mt-2 mb-0 text-white fs-5">Instalaciones para  líneas de procesos.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
                 <img src="assets/img/iconos-servicios/mantenimiento.png" alt="Montaje" class="img-fluid mb-3" />
-                <p class="mt-2 mb-0 text-white"> Mantenimiento y modificaciones industriales.</p>
+                <p class="mt-2 mb-0 text-white fs-5">Mantenimiento y modificaciones industriales.</p>
             </div>
 
 
@@ -58,30 +58,30 @@
 
 
 
-<section class="page-section" id="metodologia_view" style="padding-bottom: 0px;">
+<section class="page-section" id="metodologia_view">
     <div class="container px-4 px-lg-5">
         <h2 class="text-center mt-0">Metodología de trabajo.</h2>
         <hr class="divider divider" />
 
     
         <div class="row justify-content-center">
-            <div class="col-12 col-md-6">
+            <div class="col-12 col-md-6 col d-flex align-items-center">
                 <ul class="list-unstyled d-flex flex-column align-items-start gap-3">
                     <li class="step-item">
                         <div class="step-circle">1</div>
-                        <span class="step-label">Diagnóstico inicial.</span>
+                        <span class="step-label fs-4">Diagnóstico inicial.</span>
                     </li>
                     <li class="step-item">
                         <div class="step-circle">2</div>
-                        <span class="step-label">Propuesta personalizada.</span>
+                        <span class="step-label fs-4">Propuesta personalizada.</span>
                     </li>
                     <li class="step-item">
                         <div class="step-circle">3</div>
-                        <span class="step-label">Ejecución profesional.</span>
+                        <span class="step-label fs-4">Ejecución profesional.</span>
                     </li>
                     <li class="step-item">
                         <div class="step-circle">4</div>
-                        <span class="step-label">Acompañamiento post-obra.</span>
+                        <span class="step-label fs-4">Acompañamiento post-obra.</span>
                     </li>
                 </ul>
             </div>
@@ -108,7 +108,7 @@
 
 
         <!-- Estrategias -->
-        <h2 class="text-center mt-0"> Estrategias.</h2>
+        <h2 class="text-center"> Estrategias.</h2>
         <hr class="divider divider" />
 
 
