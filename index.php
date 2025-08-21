@@ -91,48 +91,66 @@
             </div>
         </section>
 
-        <footer class="bg-light">
-            <!-- <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; <?php echo date('Y'); ?> - Romee | Solución Industrial</div></div> -->
-        
-            <div class="row">
-                <div class="col-12 col-md-4">
-                    <div class="banner-left">
-                        <img src="assets/img/romee-logo.png" alt="Logo de presentación" class="img-logo-footer">
-                        <p class="text-white text-center fst-italic fs-2">
-                            Comprometidos <br> con cada proyecto.
-                        </p>
+
+        <div class="container px-4 px-lg-5">
+
+            <footer class="bg-light">
+                <!-- <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; <?php echo date('Y'); ?> - Romee | Solución Industrial</div></div> -->
+            
+                <div class="row">
+                    <div class="col-12 col-md-4">
+                        <div class="banner-left">
+                            <img src="assets/img/romee-logo.png" alt="Logo de presentación" class="img-logo-footer">
+                            <br>
+                            <p class="text-white fst-italic fs-3">
+                                Comprometidos <br> con cada proyecto.
+                            </p>
+                        </div>
                     </div>
+                    <div class="col-12 col-md-5 container-data-contact">
+
+                        <ul class="list-unstyled">
+
+                            <li class="mb-2">
+                                <i class="bi bi-telephone-fill me-2" style="color: #5f9fc1 !important;"></i>
+                                11 6308 9214
+                            </li>
+                            <li class="mb-2">
+                                <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
+                                @Romeesolucionindustrial
+                            </li>
+                            <li class="mb-2">
+                                <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
+                                rome.solucionindustrial@outlook.com
+                            </li>
+                            <li class="mb-2">
+                                <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
+                                Quilmes Oeste, Buenos Aires
+                            </li>
+
+                        </ul>
+
+                    </div>
+
+
+
+                    <div class="col-12 col-md-3 container-data-contact">
+                        <ul class="list-unstyled">
+
+                            <li class="nav-item mb-2"><a class="nav-link" href="#inicio_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Inicio</a></li>
+                            <li class="nav-item mb-2"><a class="nav-link" href="#sobre_nosotros"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Nosotros</a></li>
+                            <li class="nav-item mb-2"><a class="nav-link" href="#servicios_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Servicios</a></li>
+                            <li class="nav-item mb-2"><a class="nav-link" href="#clientes_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Clientes</a></li>
+                            <li class="nav-item mb-2"><a class="nav-link" href="#contacto_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Contacto</a></li>
+
+                        </ul>
+                    </div>
+
                 </div>
-                <div class="col-12 col-md-4">
+            
+            </footer>
 
-                    <ul class="list-unstyled">
-                        <li class="mb-2">
-                            <i class="bi bi-geo-alt-fill me-2 text-primary" style="color: #5f9fc1 !important;"></i>
-                            Quilmes Oeste, Buenos Aires
-                        </li>
-                        <li class="mb-2">
-                            <i class="bi bi-telephone-fill me-2 text-primary" style="color: #5f9fc1 !important;"></i>
-                            11 6308 9214
-                        </li>
-                        <li class="mb-2">
-                            <i class="bi bi-envelope-fill me-2 text-primary" style="color: #5f9fc1 !important;"></i>
-                            rome.solucionindustrial@outlook.com
-                        </li>
-                        <li>
-                            <i class="bi bi-instagram me-2 text-primary" style="color: #5f9fc1 !important;"></i>
-                            @Romeesolucionindustrial
-                        </li>
-                    </ul>
-
-                </div>
-                <div class="col-12 col-md-4">
-
-                </div>
-            </div>
-        
-        </footer>
-
-
+        </div>
 
         
 
