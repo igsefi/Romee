@@ -161,7 +161,7 @@
                 <div class="col-12">
                     <div class="banner-footer">
                         <img src="assets/img/romee-logo.png" alt="Logo de presentación" class="img-logo-footer">
-                        <p class="text-white fst-italic fs-3 lema-logo-footer" style="margin: 0;">
+                        <p class="text-white fst-italic fs-3 lema-logo-footer" style="margin: 0;margin-left: 15px;">
                             Comprometidos con cada proyecto.
                         </p>
                     </div>

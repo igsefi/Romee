@@ -162,6 +162,21 @@ footer.screen-small {
 }
 
 
+.portfolio-box-caption {
+    background: rgb(95 159 193 / 84%) !important;
+}
+
+
+.slbCaption {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    color: #fff;
+    text-align: center;
+}
+
+
 @media (max-width: 1200px) {
     .img-logo-footer {
         width: 10rem;
