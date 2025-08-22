@@ -153,9 +153,12 @@ footer.screen-small {
     height: 200px;
     padding: 4rem;
     text-align: center;
-    display: flex;
     align-items: center;
     gap: 1rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
 }
 
 
@@ -190,12 +193,12 @@ footer.screen-small {
     }
 
     .container-estrategias-m {
-    display: none;
-}
+        display: none;
+    }
 
-.container-estrategias-s {
-    display: flex;
-}
+    .container-estrategias-s {
+        display: flex;
+    }
 
     footer.screen-side {
         display: none;
@@ -203,5 +206,12 @@ footer.screen-small {
 
     footer.screen-small {
         display: block;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .info-footer-small {
+        width: 100%;
     }
 }

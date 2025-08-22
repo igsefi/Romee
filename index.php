@@ -150,67 +150,64 @@
             
             </footer>
             
+        </div>
+
+
+
+
+        <footer class="bg-light screen-small">
             
-            
-            
-            
-            
-            
-            <footer class="bg-light screen-small">
-            
-                <div class="row">
-                    <div class="col-12">
-                        <div class="banner-footer">
-                            <img src="assets/img/romee-logo.png" alt="Logo de presentación" class="img-logo-footer">
-                            <p class="text-white fst-italic fs-3 lema-logo-footer" style="margin: 0;">
-                                Comprometidos con cada proyecto.
-                            </p>
-                        </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="banner-footer">
+                        <img src="assets/img/romee-logo.png" alt="Logo de presentación" class="img-logo-footer">
+                        <p class="text-white fst-italic fs-3 lema-logo-footer" style="margin: 0;">
+                            Comprometidos con cada proyecto.
+                        </p>
                     </div>
-                    <div class="col-8 d-flex justify-content-center align-items-center" style="padding-top: 2rem;">
+                </div>
+                <div class="col-8 d-flex justify-content-center align-items-center info-footer-small" style="padding-top: 2rem;">
 
-                        <ul class="list-unstyled">
+                    <ul class="list-unstyled">
 
-                            <li class="mb-2">
-                                <i class="bi bi-telephone-fill me-2" style="color: #5f9fc1 !important;"></i>
-                                11 6308 9214
-                            </li>
-                            <li class="mb-2">
-                                <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
-                                @Romeesolucionindustrial
-                            </li>
-                            <li class="mb-2">
-                                <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
-                                rome.solucionindustrial@outlook.com
-                            </li>
-                            <li class="mb-2">
-                                <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
-                                Quilmes Oeste, Buenos Aires
-                            </li>
+                        <li class="mb-2">
+                            <i class="bi bi-telephone-fill me-2" style="color: #5f9fc1 !important;"></i>
+                            11 6308 9214
+                        </li>
+                        <li class="mb-2">
+                            <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
+                            @Romeesolucionindustrial
+                        </li>
+                        <li class="mb-2">
+                            <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
+                            rome.solucionindustrial@outlook.com
+                        </li>
+                        <li class="mb-2">
+                            <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
+                            Quilmes Oeste, Buenos Aires
+                        </li>
 
-                        </ul>
-
-                    </div>
-
-
-
-                    <div class="col-4 d-flex justify-content-center align-items-center" style="padding-top: 2rem;">
-                        <ul class="list-unstyled">
-
-                            <li class="nav-item mb-2"><a class="nav-link" href="#inicio_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Inicio</a></li>
-                            <li class="nav-item mb-2"><a class="nav-link" href="#sobre_nosotros"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Nosotros</a></li>
-                            <li class="nav-item mb-2"><a class="nav-link" href="#servicios_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Servicios</a></li>
-                            <li class="nav-item mb-2"><a class="nav-link" href="#clientes_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Clientes</a></li>
-                            <li class="nav-item mb-2"><a class="nav-link" href="#contacto_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Contacto</a></li>
-
-                        </ul>
-                    </div>
+                    </ul>
 
                 </div>
-            
-            </footer>
 
-        </div>
+
+
+                <div class="col-4 d-flex justify-content-center align-items-center info-footer-small" style="padding-top: 2rem;">
+                    <ul class="list-unstyled">
+
+                        <li class="nav-item mb-2"><a class="nav-link" href="#inicio_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Inicio</a></li>
+                        <li class="nav-item mb-2"><a class="nav-link" href="#sobre_nosotros"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Nosotros</a></li>
+                        <li class="nav-item mb-2"><a class="nav-link" href="#servicios_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Servicios</a></li>
+                        <li class="nav-item mb-2"><a class="nav-link" href="#clientes_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Clientes</a></li>
+                        <li class="nav-item mb-2"><a class="nav-link" href="#contacto_view"><i class="bi bi-circle-fill me-2 icon-nav-footer"></i> Contacto</a></li>
+
+                    </ul>
+                </div>
+
+            </div>
+        
+        </footer>
 
         
 
