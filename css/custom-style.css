@@ -28,12 +28,8 @@ textarea {
 
 
 .img-presentation {
-    width: 350px;
+    width: 17rem;
     margin: 0 auto;
-}
-
-.img-presentation>img {
-    width: 100%;
 }
 
 
@@ -135,10 +131,64 @@ textarea {
 }
 
 
+.view-more-sm {
+    display: block;
+}
 
-@media (min-width: 1700px) {
-    /* .img-logo-footer {
-        width: 300px;
+.view-sm {
+    display: none;
+}
+
+footer.screen-small {
+    display: none;
+}
+
+.banner-footer {
+    background-color: #000;
+    height: 200px;
+    padding: 4rem;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+
+@media (max-width: 1200px) {
+    .img-logo-footer {
+        width: 10rem;
+        ;
         display: block;
-    } */
+    }
+
+    .lema-logo-footer {
+        font-size: calc(1rem + 0.4vw) !important;
+    }
+
+    .container-data-contact {
+        padding-left: 1rem;
+        padding-top: 3rem;
+    }
+
+    .view-more-sm {
+        display: none;
+    }
+
+    .view-sm {
+        display: block;
+    }
+}
+
+@media (max-width: 991px) {
+    .label-metodologias {
+        font-size: calc(1.1rem + 0.1vw) !important;
+    }
+
+    footer.screen-side {
+        display: none;
+    }
+
+    footer.screen-small {
+        display: block;
+    }
 }

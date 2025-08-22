@@ -4,7 +4,7 @@
             <div class="col-lg-8 align-self-end">
                 
                 <div class="img-presentation mb-3">
-                    <img src="assets/img/romee-logo.png" alt="Logo de presentación">
+                    <img src="assets/img/romee-logo.png" alt="Logo Romee" class="img-fluid">
                 </div>
 
                 <hr class="divider" />

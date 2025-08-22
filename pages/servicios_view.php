@@ -69,19 +69,19 @@
                 <ul class="list-unstyled d-flex flex-column align-items-start gap-3">
                     <li class="step-item">
                         <div class="step-circle">1</div>
-                        <span class="step-label fs-4">Diagnóstico inicial.</span>
+                        <span class="step-label fs-4 label-metodologias">Diagnóstico inicial.</span>
                     </li>
                     <li class="step-item">
                         <div class="step-circle">2</div>
-                        <span class="step-label fs-4">Propuesta personalizada.</span>
+                        <span class="step-label fs-4 label-metodologias">Propuesta personalizada.</span>
                     </li>
                     <li class="step-item">
                         <div class="step-circle">3</div>
-                        <span class="step-label fs-4">Ejecución profesional.</span>
+                        <span class="step-label fs-4 label-metodologias">Ejecución profesional.</span>
                     </li>
                     <li class="step-item">
                         <div class="step-circle">4</div>
-                        <span class="step-label fs-4">Acompañamiento post-obra.</span>
+                        <span class="step-label fs-4 label-metodologias">Acompañamiento post-obra.</span>
                     </li>
                 </ul>
             </div>
@@ -154,7 +154,8 @@
             </div>
 
             <div class="col-12 col-md-8">
-                <img src="assets/img/iconos-servicios/estrategias.png" class="img-fluid">
+                <img src="assets/img/iconos-servicios/estrategias.png" class="img-fluid view-more-sm">
+                <img src="assets/img/iconos-servicios/estrategias-sm.png" class="img-fluid view-sm">
             </div>
 
         </div>
