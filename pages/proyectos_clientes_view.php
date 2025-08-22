@@ -16,8 +16,8 @@
             <div class="container-fluid p-0">
                 <div class="row g-0">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/canierías-acero-inoxidable.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/canierías-acero-inoxidable.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/canierias-acero-inoxidable.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/canierias-acero-inoxidable.jpg" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Categoría</div>
                                 <div class="project-name">Proyecto integral</div>
@@ -25,8 +25,8 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/canierías-acero-inoxidable-top.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
-                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/canierías-acero-inoxidable-top.jpg" alt="..." />
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/proyecto-integral/canierias-acero-inoxidable-top.jpg" title="Proyecto integral ejecutado por Romee Solución Industrial: diseño, fabricación e instalación de tanque flash, cañerías en acero inoxidable, venteos, cuadro regulador y soportes, garantizando calidad, precisión y cumplimiento de normas industriales.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/proyecto-integral/canierias-acero-inoxidable-top.jpg" alt="..." />
                             <div class="portfolio-box-caption">
                                 <div class="project-category text-white-50">Categoría</div>
                                 <div class="project-name">Proyecto integral</div>
