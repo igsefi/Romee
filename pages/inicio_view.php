@@ -19,7 +19,7 @@
                     <li>Enfoque en industrias alimenticia, farmacéutica y biotecnología.</li>
                     <li> Principales valores: Colaboración, Excelencia, Integridad, Innovación</li>
                 </ul>
-                <a class="btn btn-primary btn-xl" href="#contacto">Solicitá una cotización</a>
+                <a class="btn btn-primary btn-xl" href="#contacto_view">Solicitá una cotización</a>
             </div>
         </div>
     </div>

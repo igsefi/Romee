@@ -131,6 +131,11 @@ textarea {
 }
 
 
+.container-estrategias-s {
+    display: none;
+}
+
+
 .view-more-sm {
     display: block;
 }
@@ -183,6 +188,14 @@ footer.screen-small {
     .label-metodologias {
         font-size: calc(1.1rem + 0.1vw) !important;
     }
+
+    .container-estrategias-m {
+    display: none;
+}
+
+.container-estrategias-s {
+    display: flex;
+}
 
     footer.screen-side {
         display: none;

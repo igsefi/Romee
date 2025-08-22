@@ -119,7 +119,7 @@
 
 
 
-        <div class="row justify-content-center">
+        <div class="row justify-content-center container-estrategias-m">
 
             <div class="col-12 col-md-4">
                 <div class="card border-1 mb-4">
@@ -162,7 +162,7 @@
 
 
 
-        <div class="row justify-content-center">
+        <div class="row justify-content-center container-estrategias-m">
 
             <div class="col-12 col-md-4">
                 <div class="card border-1 mb-4">
@@ -215,6 +215,108 @@
                 </div>
             </div>
 
+
+        </div>
+
+
+
+
+
+        <!-- small -->
+
+        <div class="row justify-content-center container-estrategias-s">
+
+            <div class="col-12 text-center mb-4">
+                <img src="assets/img/iconos-servicios/estrategias-sm.png" class="img-fluid">
+            </div>
+
+
+            <div class="col-12">
+                <div class="card border-1 mb-4">
+                    <div class="card-body text-muted text-center">
+                        <div class="step-circle mx-auto mb-4">1</div>
+                        <div>
+                            <h5 class="mb-4">Planificación.</h5>
+                            <p class="mb-4">Definimos cada proyecto
+                            con una planificación precisa, 
+                            ajustada a los requerimientos
+                            técnicos, tiempos y normativas de
+                            nuestros clientes, asegurando 
+                            eficiencia desde el inicio.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            
+            <div class="col-12">
+                <div class="card border-1 mb-4">
+                    <div class="card-body text-muted text-center">
+                        <div class="step-circle mx-auto mb-4">2</div>
+                        <div>
+                            <h5 class="mb-4">Competitividad.</h5>
+                            <p class="mb-4">Nos diferenciamos por la calidad
+                            de nuestras instalaciones, el
+                            cumplimiento estricto de normas
+                            sanitarias y la capacidad de
+                            adaptarnos aproyectos de diversa
+                            complejidad.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-12">
+                <div class="card border-1 mb-4">
+                    <div class="card-body text-muted text-center">
+                        <div class="step-circle mx-auto mb-4">3</div>
+                        <div>
+                            <h5 class="mb-4">Análisis.</h5>
+                            <p class="mb-4">Evaluamos cada situación con
+                            criterio técnico y estratégico,
+                            detectando oportunidades de mejora,
+                            riesgos operativos y soluciones 
+                            a medida para cada industria.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-12">
+                <div class="card border-1 mb-4">
+                    <div class="card-body text-muted text-center">
+                        <div class="step-circle mx-auto mb-4">4</div>
+                        <div>
+                            <h5 class="mb-4">Ejecución.</h5>
+                            <p class="mb-4"> Llevamos adelante cada obra con
+                            profesionalismo, puntualidad 
+                            y compromiso, garantizando 
+                            un resultado sólido, duradero y
+                            conforme a los estándares
+                            más exigentes.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-12">
+                <div class="card border-1 mb-4">
+                    <div class="card-body text-muted text-center">
+                        <div class="step-circle mx-auto mb-4">5</div>
+                        <div>
+                            <h5 class="mb-4">Crecimiento.</h5>
+                            <p class="mb-4">Proyectamos un desarrollo
+                            sostenido basado en la innovación,
+                            la capacitación continua y la confianza
+                            construida con nuestros clientes
+                            a través deltiempo.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
         </div>
 
