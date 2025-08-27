@@ -10,7 +10,7 @@
 
         <div class="row">
             <div class="col-12">
-                <p class="text-white text-center fs-5 mb-5 fst-italic">
+                <p class="text-white text-center fs-5 mb-5 fst-italic" data-aos="zoom-out" data-aos-duration="800">
                     Cada proyecto se aborda con equipamiento especializado, desde herramientas 
                     de soldadura certificada hasta maquinaria para montaje y estructuras, 
                     garantizando resultados de alta calidad y cumplimiento normativo.
@@ -20,30 +20,30 @@
 
 
         <div class="row justify-content-center">
-            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center" data-aos="flip-right" data-aos-duration="800" data-aos-delay="0">
                 <img src="assets/img/iconos-servicios/montaje.png" alt="Montaje" class="img-fluid mb-3" />
                 <p class="mt-2 mb-0 text-white fs-5">Montaje de cañerías en acero inoxidable.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center" data-aos="flip-right" data-aos-duration="800" data-aos-delay="200">
                 <img src="assets/img/iconos-servicios/soldadura.png" alt="Montaje" class="img-fluid mb-3" />
                 <p class="mt-2 mb-0 text-white fs-5">Soldaduras sanitarias certificadas.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center" data-aos="flip-right" data-aos-duration="800" data-aos-delay="400">
                 <img src="assets/img/iconos-servicios/construccion.png" alt="Montaje" class="img-fluid mb-3" />
                 <p class="mt-2 mb-0 text-white fs-5">Construcción de  estructuras y soportes.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center" data-aos="flip-right" data-aos-duration="800" data-aos-delay="600">
                 <img src="assets/img/iconos-servicios/instalaciones.png" alt="Montaje" class="img-fluid mb-3" />
                 <p class="mt-2 mb-0 text-white fs-5">Instalaciones para  líneas de procesos.</p>
             </div>
-            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center">
+            <div class="col-12 col-md-4 col-lg-2 mb-4 text-center" data-aos="flip-right" data-aos-duration="800" data-aos-delay="800">
                 <img src="assets/img/iconos-servicios/mantenimiento.png" alt="Montaje" class="img-fluid mb-3" />
                 <p class="mt-2 mb-0 text-white fs-5">Mantenimiento y modificaciones industriales.</p>
             </div>
 
 
             <div class="col-12 m-4">
-                <h4 class="text-white text-center mb-5 fst-italic img-rouded-romee p-2">
+                <h4 class="text-white text-center mb-5 fst-italic img-rouded-romee p-2" data-aos="zoom-out" data-aos-duration="800">
                     Trabajamos bajo normativas GMP, IRAM y estándares de calidad industrial.
                 </h4>
             </div>
@@ -67,19 +67,19 @@
         <div class="row justify-content-center">
             <div class="col-12 col-md-6 col d-flex align-items-center">
                 <ul class="list-unstyled d-flex flex-column align-items-start gap-3">
-                    <li class="step-item">
+                    <li class="step-item" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="0">
                         <div class="step-circle">1</div>
                         <span class="step-label fs-4 label-metodologias">Diagnóstico inicial.</span>
                     </li>
-                    <li class="step-item">
+                    <li class="step-item" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="200">
                         <div class="step-circle">2</div>
                         <span class="step-label fs-4 label-metodologias">Propuesta personalizada.</span>
                     </li>
-                    <li class="step-item">
+                    <li class="step-item" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="400">
                         <div class="step-circle">3</div>
                         <span class="step-label fs-4 label-metodologias">Ejecución profesional.</span>
                     </li>
-                    <li class="step-item">
+                    <li class="step-item" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="600">
                         <div class="step-circle">4</div>
                         <span class="step-label fs-4 label-metodologias">Acompañamiento post-obra.</span>
                     </li>
@@ -87,13 +87,13 @@
             </div>
 
 
-            <div class="col-12 col-md-6 col-lg-5">
+            <div class="col-12 col-md-6 col-lg-5" data-aos="zoom-out-left" data-aos-duration="800" data-aos-delay="800">
                 <img src="assets/img/iconos-servicios/metodologia-trabajo.png" class="img-fluid">
             </div>
         </div>
 
         <div class="row">
-            <div class="col-12">
+            <div class="col-12" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="0">
                 <p class="text-center fs-5 mb-5 fst-italic text-muted">
                     <b>Infraestructura operativa:</b> <br>
                     Contamos con una amplia variedad de herramientas, maquinaria y 
@@ -121,7 +121,7 @@
 
         <div class="row justify-content-center container-estrategias-m">
 
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-4" data-aos="fade-right" data-aos-duration="800" data-aos-delay="0">
                 <div class="card border-1 mb-4">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">1</div>
@@ -137,7 +137,7 @@
                     </div>
                 </div>
                 
-                <div class="card border-1 mb-4">
+                <div class="card border-1 mb-4" data-aos="fade-right" data-aos-duration="800" data-aos-delay="200">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">2</div>
                         <div>
@@ -153,7 +153,7 @@
                 </div>
             </div>
 
-            <div class="col-12 col-md-8">
+            <div class="col-12 col-md-8" data-aos="zoom-out-left" data-aos-duration="800" data-aos-delay="400">
                 <img src="assets/img/iconos-servicios/estrategias.png" class="img-fluid view-more-sm">
                 <img src="assets/img/iconos-servicios/estrategias-sm.png" class="img-fluid view-sm">
             </div>
@@ -164,7 +164,7 @@
 
         <div class="row justify-content-center container-estrategias-m">
 
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-4" data-aos="fade-left" data-aos-duration="800" data-aos-delay="0">
                 <div class="card border-1 mb-4">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">3</div>
@@ -181,7 +181,7 @@
             </div>
 
 
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-4" data-aos="fade-left" data-aos-duration="800" data-aos-delay="200">
                 <div class="card border-1 mb-4">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">4</div>
@@ -199,7 +199,7 @@
             </div>
 
 
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-md-4" data-aos="fade-left" data-aos-duration="800" data-aos-delay="400">
                 <div class="card border-1 mb-4">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">5</div>
@@ -226,13 +226,13 @@
 
         <div class="row justify-content-center container-estrategias-s">
 
-            <div class="col-12 text-center mb-4">
+            <div class="col-12 text-center mb-4" data-aos="zoom-out-left" data-aos-duration="800" data-aos-delay="0">
                 <img src="assets/img/iconos-servicios/estrategias-sm.png" class="img-fluid">
             </div>
 
 
             <div class="col-12">
-                <div class="card border-1 mb-4">
+                <div class="card border-1 mb-4" data-aos="fade-right" data-aos-duration="800">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">1</div>
                         <div>
@@ -250,7 +250,7 @@
             
             
             <div class="col-12">
-                <div class="card border-1 mb-4">
+                <div class="card border-1 mb-4" data-aos="fade-right" data-aos-duration="800" data-aos-delay="200">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">2</div>
                         <div>
@@ -268,7 +268,7 @@
 
 
             <div class="col-12">
-                <div class="card border-1 mb-4">
+                <div class="card border-1 mb-4" data-aos="fade-left" data-aos-duration="800" data-aos-delay="400">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">3</div>
                         <div>
@@ -285,7 +285,7 @@
 
 
             <div class="col-12">
-                <div class="card border-1 mb-4">
+                <div class="card border-1 mb-4" data-aos="fade-left" data-aos-duration="800" data-aos-delay="600">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">4</div>
                         <div>
@@ -303,7 +303,7 @@
 
 
             <div class="col-12">
-                <div class="card border-1 mb-4">
+                <div class="card border-1 mb-4" data-aos="fade-left" data-aos-duration="800" data-aos-delay="800">
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">5</div>
                         <div>

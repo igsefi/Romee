@@ -59,32 +59,32 @@
                     <div class="col-lg-6">
                         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                             <!-- Name input-->
-                            <div class="form-floating mb-3">
+                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="0">
                                 <input class="form-control style-romee" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
                                 <label for="name" class="label-gray">Nombre completo</label>
                                 <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <!-- Email address input-->
-                            <div class="form-floating mb-3">
+                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="100">
                                 <input class="form-control style-romee" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
                                 <label for="email" class="label-gray">E-mail</label>
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             <!-- Phone number input-->
-                            <div class="form-floating mb-3">
+                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="200">
                                 <input class="form-control style-romee" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
                                 <label for="phone" class="label-gray">Teléfono</label>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
                             <!-- Message input-->
-                            <div class="form-floating mb-3">
+                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="300">
                                 <textarea class="form-control style-romee" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
                                 <label for="message" class="label-gray">Mensaje</label>
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                         
-                            <div class="d-grid"><button class="btn btn-primary btn-xl" id="submitButton" type="submit">Solicitar presupuesto</button></div>
+                            <div class="d-grid" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="400"><button class="btn btn-primary btn-xl" id="submitButton" type="submit">Solicitar presupuesto</button></div>
                         </form>
                     </div>
                 </div>
