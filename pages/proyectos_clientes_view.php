@@ -96,6 +96,96 @@
                             </div>
                         </a>
                     </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/cuadros-servicios/cuadros-servicios-industriales.png" title="En Romee Solución Industrial diseñamos y fabricamos cuadros de vapor condensado, cuadros de aire comprimido y cuadros de vacío especialmente desarrollados para su integración en procesos de liofilización.<br><br> Estos trabajos fueron ejecutados con máxima precisión y responsabilidad, garantizando la seguridad y el rendimiento de los equipos aún bajo las altas presiones de operación de las cañerías.<br><br> Cada cuadro se construye con materiales de primera calidad y siguiendo estrictos estándares de ingeniería, asegurando una instalación confiable y de larga vida útil.<br><br> Romee Solución Industrial: experiencia y excelencia en soluciones a medida para la industria y la investigación.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/cuadros-servicios/cuadros-servicios-industriales.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Cuadros de Servicios Industriales de Alta Precisión</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/cuadros-servicios/cuadros-servicios-industriales-alta-presicion.png" title="En Romee Solución Industrial diseñamos y fabricamos cuadros de vapor condensado, cuadros de aire comprimido y cuadros de vacío especialmente desarrollados para su integración en procesos de liofilización.<br><br> Estos trabajos fueron ejecutados con máxima precisión y responsabilidad, garantizando la seguridad y el rendimiento de los equipos aún bajo las altas presiones de operación de las cañerías.<br><br> Cada cuadro se construye con materiales de primera calidad y siguiendo estrictos estándares de ingeniería, asegurando una instalación confiable y de larga vida útil.<br><br> Romee Solución Industrial: experiencia y excelencia en soluciones a medida para la industria y la investigación.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/cuadros-servicios/cuadros-servicios-industriales-alta-presicion.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Cuadros de Servicios Industriales de Alta Precisión</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/cuadros-servicios/cuadros-servicios-industriales-alta-presicion-romee.png" title="En Romee Solución Industrial diseñamos y fabricamos cuadros de vapor condensado, cuadros de aire comprimido y cuadros de vacío especialmente desarrollados para su integración en procesos de liofilización.<br><br> Estos trabajos fueron ejecutados con máxima precisión y responsabilidad, garantizando la seguridad y el rendimiento de los equipos aún bajo las altas presiones de operación de las cañerías.<br><br> Cada cuadro se construye con materiales de primera calidad y siguiendo estrictos estándares de ingeniería, asegurando una instalación confiable y de larga vida útil.<br><br> Romee Solución Industrial: experiencia y excelencia en soluciones a medida para la industria y la investigación.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/cuadros-servicios/cuadros-servicios-industriales-alta-presicion-romee.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Cuadros de Servicios Industriales de Alta Precisión</div>
+                            </div>
+                        </a>
+                    </div>
+                     <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/cuadros-servicios/cuadros-servicios-industriales-alta-presicion-romee-1.png" title="En Romee Solución Industrial diseñamos y fabricamos cuadros de vapor condensado, cuadros de aire comprimido y cuadros de vacío especialmente desarrollados para su integración en procesos de liofilización.<br><br> Estos trabajos fueron ejecutados con máxima precisión y responsabilidad, garantizando la seguridad y el rendimiento de los equipos aún bajo las altas presiones de operación de las cañerías.<br><br> Cada cuadro se construye con materiales de primera calidad y siguiendo estrictos estándares de ingeniería, asegurando una instalación confiable y de larga vida útil.<br><br> Romee Solución Industrial: experiencia y excelencia en soluciones a medida para la industria y la investigación.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/cuadros-servicios/cuadros-servicios-industriales-alta-presicion-romee-1.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Cuadros de Servicios Industriales de Alta Precisión</div>
+                            </div>
+                        </a>
+                    </div>
+                     <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/fabricaion-a-medida/baina-de-temperatura.png" title="En Romee Solución Industrial desarrollamos soluciones personalizadas en conjunto con nuestros clientes, adaptándonos a las necesidades específicas de cada proyecto. <br> <br> Para este caso, fabricamos un sistema completo para la creación de un biorreactor de ensayos, incorporando: Multipuertos y tapas de botellones adaptadas. / Burbujeador, trasvase y venteo. / Baina de temperatura. / Base diseñada a medida para la instalación de agitadores magnéticos. / Integración de caudalímetro de aire. <br> <br> Cada componente fue diseñado y construido con precisión, asegurando la confiabilidad y eficiencia que demandan los entornos de investigación y desarrollo. <br> <br> Romee Solución Industrial: innovación, calidad y compromiso al servicio de la ciencia y la industria.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/fabricaion-a-medida/baina-de-temperatura.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Fabricación a Medida para Laboratorios Exigentes.</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/fabricaion-a-medida/biorreactor-de-ensayos.png" title="En Romee Solución Industrial desarrollamos soluciones personalizadas en conjunto con nuestros clientes, adaptándonos a las necesidades específicas de cada proyecto. <br> <br> Para este caso, fabricamos un sistema completo para la creación de un biorreactor de ensayos, incorporando: Multipuertos y tapas de botellones adaptadas. / Burbujeador, trasvase y venteo. / Baina de temperatura. / Base diseñada a medida para la instalación de agitadores magnéticos. / Integración de caudalímetro de aire. <br> <br> Cada componente fue diseñado y construido con precisión, asegurando la confiabilidad y eficiencia que demandan los entornos de investigación y desarrollo. <br> <br> Romee Solución Industrial: innovación, calidad y compromiso al servicio de la ciencia y la industria.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/fabricaion-a-medida/biorreactor-de-ensayos.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Fabricación a Medida para Laboratorios Exigentes.</div>
+                            </div>
+                        </a>
+                    </div>
+                     <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/fabricaion-a-medida/burbujeador-trasvase-venteo.png" title="En Romee Solución Industrial desarrollamos soluciones personalizadas en conjunto con nuestros clientes, adaptándonos a las necesidades específicas de cada proyecto. <br> <br> Para este caso, fabricamos un sistema completo para la creación de un biorreactor de ensayos, incorporando: Multipuertos y tapas de botellones adaptadas. / Burbujeador, trasvase y venteo. / Baina de temperatura. / Base diseñada a medida para la instalación de agitadores magnéticos. / Integración de caudalímetro de aire. <br> <br> Cada componente fue diseñado y construido con precisión, asegurando la confiabilidad y eficiencia que demandan los entornos de investigación y desarrollo. <br> <br> Romee Solución Industrial: innovación, calidad y compromiso al servicio de la ciencia y la industria.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/fabricaion-a-medida/burbujeador-trasvase-venteo.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Fabricación a Medida para Laboratorios Exigentes.</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/fabricaion-a-medida/caudalimetro-de-aire.png" title="En Romee Solución Industrial desarrollamos soluciones personalizadas en conjunto con nuestros clientes, adaptándonos a las necesidades específicas de cada proyecto. <br> <br> Para este caso, fabricamos un sistema completo para la creación de un biorreactor de ensayos, incorporando: Multipuertos y tapas de botellones adaptadas. / Burbujeador, trasvase y venteo. / Baina de temperatura. / Base diseñada a medida para la instalación de agitadores magnéticos. / Integración de caudalímetro de aire. <br> <br> Cada componente fue diseñado y construido con precisión, asegurando la confiabilidad y eficiencia que demandan los entornos de investigación y desarrollo. <br> <br> Romee Solución Industrial: innovación, calidad y compromiso al servicio de la ciencia y la industria.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/fabricaion-a-medida/caudalimetro-de-aire.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Fabricación a Medida para Laboratorios Exigentes.</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/fabricaion-a-medida/multipuertos.png" title="En Romee Solución Industrial desarrollamos soluciones personalizadas en conjunto con nuestros clientes, adaptándonos a las necesidades específicas de cada proyecto. <br> <br> Para este caso, fabricamos un sistema completo para la creación de un biorreactor de ensayos, incorporando: Multipuertos y tapas de botellones adaptadas. / Burbujeador, trasvase y venteo. / Baina de temperatura. / Base diseñada a medida para la instalación de agitadores magnéticos. / Integración de caudalímetro de aire. <br> <br> Cada componente fue diseñado y construido con precisión, asegurando la confiabilidad y eficiencia que demandan los entornos de investigación y desarrollo. <br> <br> Romee Solución Industrial: innovación, calidad y compromiso al servicio de la ciencia y la industria.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/fabricaion-a-medida/multipuertos.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Fabricación a Medida para Laboratorios Exigentes.</div>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-sm-6">
+                        <a class="portfolio-box" href="assets/img/portfolio/fullsize/fabricaion-a-medida/multipuertos-tapas-botellones.png" title="En Romee Solución Industrial desarrollamos soluciones personalizadas en conjunto con nuestros clientes, adaptándonos a las necesidades específicas de cada proyecto. <br> <br> Para este caso, fabricamos un sistema completo para la creación de un biorreactor de ensayos, incorporando: Multipuertos y tapas de botellones adaptadas. / Burbujeador, trasvase y venteo. / Baina de temperatura. / Base diseñada a medida para la instalación de agitadores magnéticos. / Integración de caudalímetro de aire. <br> <br> Cada componente fue diseñado y construido con precisión, asegurando la confiabilidad y eficiencia que demandan los entornos de investigación y desarrollo. <br> <br> Romee Solución Industrial: innovación, calidad y compromiso al servicio de la ciencia y la industria.">
+                            <img class="img-fluid" src="assets/img/portfolio/thumbnails/fabricaion-a-medida/multipuertos-tapas-botellones.png" alt="..." />
+                            <div class="portfolio-box-caption">
+                                <div class="project-category text-white-50">Categoría</div>
+                                <div class="project-name">Fabricación a Medida para Laboratorios Exigentes.</div>
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </div>
         </div>
