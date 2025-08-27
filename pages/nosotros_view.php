@@ -7,29 +7,29 @@
 
         <div class="row">
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <img src="assets/img/bg-masthead-7.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+                <img src="assets/img/bg-masthead-7.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee" data-aos="zoom-in-left" data-aos-duration="800">
             </div>
             
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <img src="assets/img/bg-masthead-10.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+                <img src="assets/img/bg-masthead-10.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee" data-aos="zoom-in-right" data-aos-duration="800">
             </div>
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <img src="assets/img/bg-masthead-11.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+                <img src="assets/img/bg-masthead-11.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee" data-aos="zoom-in-left" data-aos-duration="800">
             </div>
 
             <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-                <img src="assets/img/bg-masthead-6.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee">
+                <img src="assets/img/bg-masthead-6.jpg" alt="Romee" class="img-fluid mb-3 img-rouded-romee" data-aos="zoom-in-right" data-aos-duration="800">
             </div>
 
             <div class="col-12 mt-4">
-                <p class="text-white text-center fs-5 mb-5 fst-italic">
+                <p class="text-white text-center fs-5 mb-5 fst-italic" data-aos="zoom-out" data-aos-duration="800">
                     <b>Romee Solución Industrial</b> es una firma especializada en soldaduras sanitarias, montajes industriales y la fabricación de estructuras en acero inoxidable.
                 </p>
             </div>
             
             <div class="col-12">
-                <p class="text-white text-center fs-5 mb-5 fst-italic">
+                <p class="text-white text-center fs-5 mb-5 fst-italic" data-aos="zoom-out" data-aos-duration="800">
                     Con una amplia trayectoria en la industria alimenticia, farmacéutica, 
                     cervecera y de biotecnología, brindamos soluciones adaptadas a normas exigentes 
                     y necesidades específicas.
