@@ -6,16 +6,23 @@
         <meta name="description" content="" />
         <meta name="author" content="Romee" />
         <title>Romee - Solución Industrial</title>
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" href="assets/img/favicon.ico" />
         
         <link href="css/simpleLightbox.min.css" rel="stylesheet" />
         <link href="css/styles.css" rel="stylesheet" />
         <link href="css/custom-style.css" rel="stylesheet" />
+        <link href="css/whatsapp.css" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css2?family=Merriweather+Sans&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+       
     </head>
     <body id="page-top">
+
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <a href="https://api.whatsapp.com/send?phone=541163089214&text=Hola, me gustaria Obtener más información" class="float" target="_blank">
+        <i class="fa fa-whatsapp my-float "></i>
+        </a>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
             <div class="container px-4 px-lg-5">
@@ -114,15 +121,16 @@
 
                             <li class="mb-2">
                                 <i class="bi bi-telephone-fill me-2" style="color: #5f9fc1 !important;"></i>
-                                11 6308 9214
+                                <a href="https://wa.me/541163089214"> 11 6308 9214 </a>
                             </li>
                             <li class="mb-2">
                                 <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
-                                @Romeesolucionindustrial
+                                <a href="https://www.instagram.com/romeesolucionindustrial/"> @Romeesolucionindustrial </a>
                             </li>
                             <li class="mb-2">
                                 <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
-                                rome.solucionindustrial@outlook.com
+                                <a href="mailto:info@romee.com.ar"> info@romee.com.ar </a>
+                               
                             </li>
                             <li class="mb-2">
                                 <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
@@ -181,7 +189,7 @@
                         </li>
                         <li class="mb-2">
                             <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
-                            rome.solucionindustrial@outlook.com
+                            info@romee.com.ar
                         </li>
                         <li class="mb-2">
                             <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>

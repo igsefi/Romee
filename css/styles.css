@@ -267,12 +267,12 @@ sup {
 }
 
 a {
-	color: var(--bs-link-color);
-	text-decoration: underline;
+    color: var(--bs-nav-link-color);
+    text-decoration: none;
 }
 
 a:hover {
-	color: var(--bs-link-hover-color);
+	color: #5f9fc1;
 }
 
 a:not([href]):not([class]),
@@ -4150,7 +4150,7 @@ fieldset:disabled .btn {
 
 .nav-link:hover,
 .nav-link:focus {
-	color: var(--bs-nav-link-hover-color);
+	color: #5f9fc1;
 }
 
 .nav-link.disabled {
@@ -8641,7 +8641,7 @@ fieldset:disabled .btn {
 
 .mb-2 {
 	margin-bottom: 0.5rem !important;
-}
+	}
 
 .mb-3 {
 	margin-bottom: 1rem !important;
