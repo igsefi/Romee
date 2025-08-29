@@ -12673,7 +12673,7 @@ hr.divider-light {
 @media (min-width: 992px) {
 	#mainNav {
 		box-shadow: none;
-		background-color: transparent;
+		background-color: #000000;
 	}
 
 	#mainNav .navbar-brand {
@@ -12738,7 +12738,7 @@ header.masthead .h1 {
 	header.masthead {
 		height: 100vh;
 		min-height: 40rem;
-		padding-top: 4.5rem;
+		padding-top: 7.5rem;
 		padding-bottom: 0;
 	}
 
