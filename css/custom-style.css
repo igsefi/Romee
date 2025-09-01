@@ -150,7 +150,7 @@ footer.screen-small {
 
 .banner-footer {
     background-color: #000;
-    height: 200px;
+    height: 230px;
     padding: 4rem;
     text-align: center;
     align-items: center;
@@ -176,6 +176,36 @@ footer.screen-small {
     text-align: center;
 }
 
+#estrategias_view,
+#sobre_nosotros,
+#servicios_view,
+#metodologia_view,
+#estrategias_view,
+#contacto_view,
+footer.screen-small {
+    overflow-x: hidden;
+}
+
+body {
+    background-color: #f8f9fa;
+}
+
+footer.screen-side {}
+
+footer.screen-side>.negro {
+    height: 300px;
+    width: 300px;
+    display: block;
+    position: absolute;
+    background: #000;
+    left: 0;
+}
+
+@media (min-width: 1700px) {
+    footer.screen-side>.negro {
+        width: 600px;
+    }
+}
 
 @media (max-width: 1200px) {
     .img-logo-footer {

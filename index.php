@@ -19,9 +19,9 @@
     </head>
     <body id="page-top">
 
-      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
         <a href="https://api.whatsapp.com/send?phone=541163089214&text=Hola, me gustaria Obtener más información" class="float" target="_blank">
-        <i class="fa fa-whatsapp my-float "></i>
+            <i class="fa fa-whatsapp my-float "></i>
         </a>
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
@@ -66,32 +66,32 @@
                     <div class="col-lg-6">
                         <form id="contactForm" data-sb-form-api-token="API_TOKEN">
                             <!-- Name input-->
-                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="0">
+                            <div class="form-floating mb-3" data-aos="fade-down" data-aos-duration="800" data-aos-delay="0">
                                 <input class="form-control style-romee" id="name" type="text" placeholder="Enter your name..." data-sb-validations="required" />
                                 <label for="name" class="label-gray">Nombre completo</label>
                                 <div class="invalid-feedback" data-sb-feedback="name:required">A name is required.</div>
                             </div>
                             <!-- Email address input-->
-                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="100">
+                            <div class="form-floating mb-3" data-aos="fade-down" data-aos-duration="800" data-aos-delay="100">
                                 <input class="form-control style-romee" id="email" type="email" placeholder="name@example.com" data-sb-validations="required,email" />
                                 <label for="email" class="label-gray">E-mail</label>
                                 <div class="invalid-feedback" data-sb-feedback="email:required">An email is required.</div>
                                 <div class="invalid-feedback" data-sb-feedback="email:email">Email is not valid.</div>
                             </div>
                             <!-- Phone number input-->
-                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="200">
+                            <div class="form-floating mb-3" data-aos="fade-down" data-aos-duration="800" data-aos-delay="200">
                                 <input class="form-control style-romee" id="phone" type="tel" placeholder="(123) 456-7890" data-sb-validations="required" />
                                 <label for="phone" class="label-gray">Teléfono</label>
                                 <div class="invalid-feedback" data-sb-feedback="phone:required">A phone number is required.</div>
                             </div>
                             <!-- Message input-->
-                            <div class="form-floating mb-3" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="300">
+                            <div class="form-floating mb-3" data-aos="fade-down" data-aos-duration="800" data-aos-delay="300">
                                 <textarea class="form-control style-romee" id="message" type="text" placeholder="Enter your message here..." style="height: 10rem" data-sb-validations="required"></textarea>
                                 <label for="message" class="label-gray">Mensaje</label>
                                 <div class="invalid-feedback" data-sb-feedback="message:required">A message is required.</div>
                             </div>
                         
-                            <div class="d-grid" data-aos="zoom-out" data-aos-duration="800" data-aos-delay="400"><button class="btn btn-primary btn-xl" id="submitButton" type="submit">Solicitar presupuesto</button></div>
+                            <div class="d-grid" data-aos="fade-down" data-aos-duration="800" data-aos-delay="400"><button class="btn btn-primary btn-xl" id="submitButton" type="submit">Solicitar presupuesto</button></div>
                         </form>
                     </div>
                 </div>
@@ -103,7 +103,7 @@
         <div class="container px-4 px-lg-5">
 
             <footer class="bg-light screen-side">
-                <!-- <div class="container px-4 px-lg-5"><div class="small text-center text-muted">Copyright &copy; <?php echo date('Y'); ?> - Romee | Solución Industrial</div></div> -->
+                <div class="negro"></div>
             
                 <div class="row">
                     <div class="col-12 col-sm-12 col-md-4">
@@ -181,15 +181,16 @@
 
                         <li class="mb-2">
                             <i class="bi bi-telephone-fill me-2" style="color: #5f9fc1 !important;"></i>
-                            11 6308 9214
+                            <a href="https://wa.me/541163089214"> 11 6308 9214 </a>
                         </li>
                         <li class="mb-2">
                             <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
-                            @Romeesolucionindustrial
+                            <a href="https://www.instagram.com/romeesolucionindustrial/"> @Romeesolucionindustrial </a>
                         </li>
                         <li class="mb-2">
                             <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
-                            info@romee.com.ar
+                            <a href="mailto:info@romee.com.ar"> info@romee.com.ar </a>
+                            
                         </li>
                         <li class="mb-2">
                             <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
