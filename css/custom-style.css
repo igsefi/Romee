@@ -168,12 +168,14 @@ footer.screen-small {
 
 
 .slbCaption {
-    position: absolute;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    padding: 3rem;
     color: #fff;
+    padding-top: 4em;
     text-align: center;
+}
+
+.slbImageWrap {
+    height: 100vh;
 }
 
 #estrategias_view,
@@ -258,5 +260,13 @@ footer.screen-side>.negro {
 @media (max-width: 767px) {
     .info-footer-small {
         width: 100%;
+    }
+}
+
+
+@media (max-width: 575px) {
+
+    .contenedor_imagenes_proyectos>div {
+        margin-bottom: 5px !important;
     }
 }
