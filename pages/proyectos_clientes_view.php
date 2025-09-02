@@ -233,6 +233,9 @@
             <div class="col-12 col-sm-4" data-aos="fade-down" data-aos-duration="400" data-aos-delay="0">
                 <img src="assets/img/cli_quilmes.png" alt="cli_quilmes" class="icono-cliente img-fluid mb-3" />
             </div>
+            <div class="col-12 col-sm-4" data-aos="fade-down" data-aos-duration="400" data-aos-delay="0">
+                <img src="assets/img/cli_anser.png" alt="cli_quilmes" class="icono-cliente img-fluid mb-3" />
+            </div>
         </div>
 
 

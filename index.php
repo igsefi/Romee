@@ -124,13 +124,16 @@
                                 <a href="https://wa.me/541163089214"> 11 6308 9214 </a>
                             </li>
                             <li class="mb-2">
+                                <i class="bi bi-linkedin me-2" style="color: #5f9fc1 !important;"></i>
+                                <a href="https://www.linkedin.com"> Romee Solucion Industrial </a>
+                            </li> 
+                            <li class="mb-2">
                                 <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
                                 <a href="https://www.instagram.com/romeesolucionindustrial/"> @Romeesolucionindustrial </a>
                             </li>
                             <li class="mb-2">
                                 <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
                                 <a href="mailto:info@romee.com.ar"> info@romee.com.ar </a>
-                               
                             </li>
                             <li class="mb-2">
                                 <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
@@ -184,14 +187,17 @@
                             <a href="https://wa.me/541163089214"> 11 6308 9214 </a>
                         </li>
                         <li class="mb-2">
+                            <i class="bi bi-linkedin me-2" style="color: #5f9fc1 !important;"></i>
+                            <a href="https://www.linkedin.com"> Romee Solucion Industrial </a>
+                        </li>
+                        <li class="mb-2">
                             <i class="bi bi-instagram me-2" style="color: #5f9fc1 !important;"></i>
                             <a href="https://www.instagram.com/romeesolucionindustrial/"> @Romeesolucionindustrial </a>
                         </li>
                         <li class="mb-2">
                             <i class="bi bi-envelope-fill me-2" style="color: #5f9fc1 !important;"></i>
                             <a href="mailto:info@romee.com.ar"> info@romee.com.ar </a>
-                            
-                        </li>
+                         </li>
                         <li class="mb-2">
                             <i class="bi bi-geo-alt-fill me-2" style="color: #5f9fc1 !important;"></i>
                             Quilmes Oeste, Buenos Aires
