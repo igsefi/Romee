@@ -61,7 +61,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
         const data = Object.fromEntries(new FormData($form));
         try {
-            const res = await fetch('/enviar_mail.php', {
+            const res = await fetch('enviar_mail.php', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
                 body: JSON.stringify(data),
@@ -76,9 +76,8 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         } catch (err) {
             $status.textContent = 'Error de red o servidor.';
-        } finally {
-            $btn.disabled = false;
         }
+        $btn.disabled = false;
     });
 
 });

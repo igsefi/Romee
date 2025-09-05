@@ -91,7 +91,7 @@
                             </div>
                         
                             <div class="d-grid" data-aos="fade-down" data-aos-duration="800" data-aos-delay="400"><button class="btn btn-primary btn-xl" id="btnEnviar" type="submit">Solicitar presupuesto</button></div>
-                            <p id="status" aria-live="polite"></p>
+                            <p id="status" aria-live="polite" class="alert-mensaje mt-4"></p>
                         </form>
                     </div>
                 </div>

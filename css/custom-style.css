@@ -198,7 +198,10 @@ body {
     background-color: #f8f9fa;
 }
 
-footer.screen-side {}
+.alert-mensaje {
+    color: #5f9fc1;
+    font-size: 1.2rem;
+}
 
 footer.screen-side>.negro {
     height: 300px;
