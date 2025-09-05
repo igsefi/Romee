@@ -49,4 +49,36 @@ window.addEventListener('DOMContentLoaded', event => {
 
     AOS.init();
 
+
+    const $form = document.getElementById('formContacto');
+    const $btn = document.getElementById('btnEnviar');
+    const $status = document.getElementById('status');
+
+    $form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        $status.textContent = '';
+        $btn.disabled = true;
+
+        const data = Object.fromEntries(new FormData($form));
+        try {
+            const res = await fetch('/enviar_mail.php', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+                body: JSON.stringify(data),
+                credentials: 'same-origin'
+            });
+            const json = await res.json();
+            if (res.ok && json.ok) {
+                $status.textContent = '¡Gracias! Tu mensaje fue enviado.';
+                $form.reset();
+            } else {
+                $status.textContent = json.error || 'No pudimos enviar el mensaje.';
+            }
+        } catch (err) {
+            $status.textContent = 'Error de red o servidor.';
+        } finally {
+            $btn.disabled = false;
+        }
+    });
+
 });
