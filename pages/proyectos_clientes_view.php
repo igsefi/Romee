@@ -1,6 +1,6 @@
 <section class="page-section" id="proyectos_view">
     <div class="container px-4 px-lg-5">
-        <h2 class="text-center mt-0">Proyectos.</h2>
+        <h2 class="text-center mt-0">Proyectos</h2>
         <hr class="divider divider" />
 
         <p class="text-center fs-5 mb-5 fst-italic text-muted" data-aos="fade-up">
@@ -200,7 +200,7 @@
 <section class="page-section" id="clientes_view">
     <div class="container px-4 px-lg-5">
 
-        <h2 class="text-center mt-0">Clientes.</h2>
+        <h2 class="text-center mt-0">Clientes</h2>
         <hr class="divider divider" />
 
         <div class="row">

@@ -17,7 +17,7 @@
                 <ul class="list-info-romee fs-5 fst-italic" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="400">
                     <li>Especialización en montaje industrial y soldaduras sanitarias.</li>
                     <li>Enfoque en industrias alimenticia, farmacéutica y biotecnología.</li>
-                    <li> Principales valores: Colaboración, Excelencia, Integridad, Innovación</li>
+                    <li> Nuestros valores: Colaboración, Excelencia, Integridad, Innovación.</li>
                 </ul>
                 <a class="btn btn-primary btn-xl" href="#contacto_view" data-aos="zoom-in" data-aos-duration="800" data-aos-delay="800">Solicitá una cotización</a>
             </div>

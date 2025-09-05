@@ -5,7 +5,7 @@
             </div>
         </div> -->
 
-        <h2 class="text-white text-center mt-0">Servicios.</h2>
+        <h2 class="text-white text-center mt-0">Servicios</h2>
         <hr class="divider divider" />
 
         <div class="row">
@@ -60,7 +60,7 @@
 
 <section class="page-section" id="metodologia_view">
     <div class="container px-4 px-lg-5">
-        <h2 class="text-center mt-0">Metodología de trabajo.</h2>
+        <h2 class="text-center mt-0">Metodología de trabajo </h2>
         <hr class="divider divider" />
 
     
@@ -114,7 +114,7 @@
     <div class="container px-4 px-lg-5">
 
         <!-- Estrategias -->
-        <h2 class="text-center"> Estrategias.</h2>
+        <h2 class="text-center"> Estrategias </h2>
         <hr class="divider divider" />
 
 
@@ -126,7 +126,7 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">1</div>
                         <div>
-                            <h5 class="mb-4">Planificación.</h5>
+                            <h5 class="mb-4">Planificación</h5>
                             <p class="mb-4">Definimos cada proyecto
                             con una planificación precisa, 
                             ajustada a los requerimientos
@@ -141,13 +141,13 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">2</div>
                         <div>
-                            <h5 class="mb-4">Competitividad.</h5>
+                            <h5 class="mb-4">Competitividad</h5>
                             <p class="mb-4">Nos diferenciamos por la calidad
                             de nuestras instalaciones, el
                             cumplimiento estricto de normas
                             sanitarias y la capacidad de
-                            adaptarnos aproyectos de diversa
-                            complejidad.</p>
+                            adaptarnos a proyectos de diversas
+                            complejidades.</p>
                         </div>
                     </div>
                 </div>
@@ -169,7 +169,7 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">3</div>
                         <div>
-                            <h5 class="mb-4">Análisis.</h5>
+                            <h5 class="mb-4">Análisis</h5>
                             <p class="mb-4">Evaluamos cada situación con
                             criterio técnico y estratégico,
                             detectando oportunidades de mejora,
@@ -186,7 +186,7 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">4</div>
                         <div>
-                            <h5 class="mb-4">Ejecución.</h5>
+                            <h5 class="mb-4">Ejecución</h5>
                             <p class="mb-4"> Llevamos adelante cada obra con
                             profesionalismo, puntualidad 
                             y compromiso, garantizando 
@@ -204,12 +204,12 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">5</div>
                         <div>
-                            <h5 class="mb-4">Crecimiento.</h5>
+                            <h5 class="mb-4">Crecimiento</h5>
                             <p class="mb-4">Proyectamos un desarrollo
                             sostenido basado en la innovación,
                             la capacitación continua y la confianza
                             construida con nuestros clientes
-                            a través deltiempo.</p>
+                            a través del tiempo.</p>
                         </div>
                     </div>
                 </div>
@@ -236,7 +236,7 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">1</div>
                         <div>
-                            <h5 class="mb-4">Planificación.</h5>
+                            <h5 class="mb-4">Planificación</h5>
                             <p class="mb-4">Definimos cada proyecto
                             con una planificación precisa, 
                             ajustada a los requerimientos
@@ -254,13 +254,13 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">2</div>
                         <div>
-                            <h5 class="mb-4">Competitividad.</h5>
+                            <h5 class="mb-4">Competitividad</h5>
                             <p class="mb-4">Nos diferenciamos por la calidad
                             de nuestras instalaciones, el
                             cumplimiento estricto de normas
                             sanitarias y la capacidad de
-                            adaptarnos aproyectos de diversa
-                            complejidad.</p>
+                            adaptarnos a proyectos de diversas
+                            complejidades.</p>
                         </div>
                     </div>
                 </div>
@@ -272,7 +272,7 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">3</div>
                         <div>
-                            <h5 class="mb-4">Análisis.</h5>
+                            <h5 class="mb-4">Análisis</h5>
                             <p class="mb-4">Evaluamos cada situación con
                             criterio técnico y estratégico,
                             detectando oportunidades de mejora,
@@ -289,7 +289,7 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">4</div>
                         <div>
-                            <h5 class="mb-4">Ejecución.</h5>
+                            <h5 class="mb-4">Ejecución</h5>
                             <p class="mb-4"> Llevamos adelante cada obra con
                             profesionalismo, puntualidad 
                             y compromiso, garantizando 
@@ -307,12 +307,12 @@
                     <div class="card-body text-muted text-center">
                         <div class="step-circle mx-auto mb-4">5</div>
                         <div>
-                            <h5 class="mb-4">Crecimiento.</h5>
+                            <h5 class="mb-4">Crecimiento</h5>
                             <p class="mb-4">Proyectamos un desarrollo
                             sostenido basado en la innovación,
                             la capacitación continua y la confianza
                             construida con nuestros clientes
-                            a través deltiempo.</p>
+                            a través del tiempo.</p>
                         </div>
                     </div>
                 </div>

@@ -56,7 +56,7 @@
         <section class="page-section bg-primary-grey-romee" id="contacto_view">
             <div class="container px-4 px-lg-5">
 
-                <h2 class="text-white text-center mt-0">Contacto.</h2>
+                <h2 class="text-white text-center mt-0">Contacto</h2>
                 <hr class="divider" />
                 <br>
 
