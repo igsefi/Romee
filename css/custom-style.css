@@ -178,6 +178,12 @@ footer.screen-small {
     height: 100vh;
 }
 
+
+#estrategias_view {
+    overflow: hidden;
+}
+
+
 #estrategias_view,
 #sobre_nosotros,
 #servicios_view,
