@@ -53,6 +53,7 @@ window.addEventListener('DOMContentLoaded', event => {
     const $form = document.getElementById('formContacto');
     const $btn = document.getElementById('btnEnviar');
     const $status = document.getElementById('status');
+    const modal = new bootstrap.Modal(document.getElementById('mensajeEnviadoModal'));
 
     $form.addEventListener('submit', async (e) => {
         e.preventDefault();
@@ -69,10 +70,11 @@ window.addEventListener('DOMContentLoaded', event => {
             });
             const json = await res.json();
             if (res.ok && json.ok) {
-                $status.textContent = '¡Gracias! Tu mensaje fue enviado.';
+                modal.show();
+                //$status.textContent = '¡Gracias! Tu mensaje fue enviado.';
                 $form.reset();
             } else {
-                $status.textContent = json.error || 'No pudimos enviar el mensaje.';
+                $status.textContent = 'No pudimos enviar el mensaje.';
             }
         } catch (err) {
             $status.textContent = 'Error de red o servidor.';

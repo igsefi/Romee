@@ -53,6 +53,25 @@
 
         
         <!-- Contact-->
+         <!-- Modal -->
+        <div class="modal fade" id="mensajeEnviadoModal" tabindex="-1" aria-labelledby="mensajeEnviadoLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header bg-success text-white" style="background-color: #5f9fc1 !important;">
+                        <h5 class="modal-title" id="mensajeEnviadoLabel">¡Mensaje enviado!</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Cerrar"></button>
+                    </div>
+                    <div class="modal-body">
+                        Gracias por contactarnos. Te responderemos a la brevedad.
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-success" data-bs-dismiss="modal" style="background-color: #5f9fc1 !important;">Aceptar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
         <section class="page-section bg-primary-grey-romee" id="contacto_view">
             <div class="container px-4 px-lg-5">
 
@@ -90,8 +109,9 @@
                                 <div class="invalid-feedback" data-sb-feedback="message:required">El mensaje es requerido.</div>
                             </div>
                         
-                            <div class="d-grid" data-aos="fade-down" data-aos-duration="800" data-aos-delay="400"><button class="btn btn-primary btn-xl" id="btnEnviar" type="submit">Solicitar presupuesto</button></div>
                             <p id="status" aria-live="polite" class="alert-mensaje mt-4"></p>
+                            
+                            <div class="d-grid" data-aos="fade-down" data-aos-duration="800" data-aos-delay="400"><button class="btn btn-primary btn-xl" id="btnEnviar" type="submit">Solicitar presupuesto</button></div>
                         </form>
                     </div>
                 </div>
